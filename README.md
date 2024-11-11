@@ -96,3 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## About the Course
 
 This project was developed as part of the **Advanced React Course** by **Babel Group**. The course covers advanced React topics, including state management, context API, API integration, and performance optimization using caching strategies like `localStorage`.
+
+## Created by
+Nicole Struggia
